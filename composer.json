@@ -5,7 +5,8 @@
     "license": "Apache-2.0",
     "require": {
         "php": "^7.3 || ^8.0",
-        "ext-json": "*"
+        "ext-json": "*",
+        "open-telemetry/opentelemetry": "0.0.2"
     },
     "authors": [
         {
